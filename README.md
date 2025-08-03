@@ -34,13 +34,3 @@ A celebration website for the Provincial Hack4Gov champions from Basilan State C
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🚀 Installation
-
-No installation required! Simply open the `index.html` file in any modern web browser.
-
-```bash
-# Clone the repository
-git clone https://github.com/LikeNmuFF/BasilanH4G.git
-
-# Open in browser
-open index.html
