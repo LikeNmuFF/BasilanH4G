@@ -68,6 +68,8 @@ An annual initiative by:
 ## 🏛️ Institutional Recognition
 
 ![BaSC Logo](Basilan_State_College-removebg-preview.png)
+
+
 **Basilan State College**  
 Proud home of both champion teams in this year's competition
 
