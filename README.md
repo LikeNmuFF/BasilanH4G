@@ -1,6 +1,6 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
-![DICT Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Department_of_Information_and_Communications_Technology_%28DICT%29.svg)
+![DICT Logo](https://cms-cdn.e.gov.ph/DICT/uploads/Sub-brand vert low res-04.png)
 ![Basilan State College Logo](Basilan_State_College-removebg-preview.png)
 
 > *"A full day of innovation, critical thinking, and cybersecurity excellence"*
@@ -78,6 +78,6 @@ This project is open-source under the [MIT License](LICENSE).
 
 <div align="center">
   <img src="Basilan_State_College-removebg-preview.png" width="100" alt="BSC Logo">
-  <img src="https://dict.gov.ph/wp-content/uploads/2021/01/DICT-Logo-1.png" width="100" alt="DICT Logo">
+  <img src="https://cms-cdn.e.gov.ph/DICT/uploads/Sub-brand vert low res-04.png" width="100" alt="DICT Logo">
   <p>© 2025 Basilan State College & DICT Region IX | All Rights Reserved</p>
 </div>
