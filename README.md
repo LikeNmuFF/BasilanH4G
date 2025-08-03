@@ -6,6 +6,8 @@
   <img src="Basilan_State_College-removebg-preview.png" width="100" alt="BaSC Logo">
   <img src="fci.png" width="150" alt="Furigay Logo">
   <img src="UCFSAP.png" width="100" alt="Universal College Logo">
+  <br>
+  <em>"A full day of innovation, critical thinking, and cybersecurity excellence"</em>
 </p>
 
 *"A full day of innovation, critical thinking, and cybersecurity excellence"*
