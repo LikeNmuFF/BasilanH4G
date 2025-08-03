@@ -1,7 +1,9 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
-![DICT Logo](DICT_Standard.png)
-![Basilan State College Logo](Basilan_State_College-removebg-preview.png)
+<p align="center">
+  <img src="DICT_Standard.png" width="200" alt="DICT Logo">
+  <img src="Basilan_State_College-removebg-preview.png" width="200" alt="BaSC Logo">
+</p>
 
 > *"A full day of innovation, critical thinking, and cybersecurity excellence"*
 
@@ -9,7 +11,7 @@
 
 The **Basilan Provincial Hack4Gov Capture-the-Flag (CTF) Competition 2025** was organized by:
 - **Department of Information and Communications Technology (DICT) Region IX**
-- **Provincial Office led by Mr. Micheal Jolo**
+- **Provincial Office led by Mr. Michael Jolo**
 
 **Competition Highlights:**
 - 🕒 Full-day cybersecurity challenge
