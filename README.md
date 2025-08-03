@@ -4,25 +4,12 @@
 
 A celebration website for the Provincial Hack4Gov champions from Basilan State College, featuring interactive theme switching and team showcases.
 
-## 🌟 Features
 
-- **Multi-theme Support** (Light/Dark/Hacking modes)
-- **Interactive Team Cards** with detailed information
-- **Responsive Design** for all device sizes
-- **Animated Particles** background effect
-- **Immersive Hacking Mode** with terminal-style animation
-- **Team Galleries** with image previews
-
-## 🎨 Themes Preview
-
-| Light Mode | Dark Mode | Hacking Mode |
-|------------|-----------|--------------|
-| ![Light Mode](https://i.imgur.com/light-screenshot.png) | ![Dark Mode](https://i.imgur.com/dark-screenshot.png) | ![Hacking Mode](https://i.imgur.com/hack-screenshot.png) |
 
 ## 🏆 Winning Teams
 
 ### 🥇 Champion Team: 1mpvl3$
-![Team 1mpvl3$](https://raw.githubusercontent.com/yourusername/your-repo/main/1mpulse.jpg)
+![Team 1mpvl3$]
 
 **Coach**: Mohammad Jeremy Intong  
 **Members**:
@@ -32,7 +19,7 @@ A celebration website for the Provincial Hack4Gov champions from Basilan State C
 - Ace David B. Duja
 
 ### 🥈 First Runner-Up: Team Raze
-![Team Raze](https://raw.githubusercontent.com/yourusername/your-repo/main/raze.jpg)
+![Team Raze]
 
 **Coach**: Adrian Vincent Avenido  
 **Members**:
@@ -53,7 +40,7 @@ No installation required! Simply open the `index.html` file in any modern web br
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/basilan-hack4gov-champs.git
+git clone https://github.com/LikeNmuFF/BasilanH4G.git
 
 # Open in browser
 open index.html
