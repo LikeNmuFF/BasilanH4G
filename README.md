@@ -1,6 +1,6 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
-![DICT Logo](https://cms-cdn.e.gov.ph/DICT/uploads/Sub-brand vert low res-04.png)
+![DICT Logo]("https://cms-cdn.e.gov.ph/DICT/uploads/Sub-brand vert low res-04.png")
 ![Basilan State College Logo](Basilan_State_College-removebg-preview.png)
 
 > *"A full day of innovation, critical thinking, and cybersecurity excellence"*
@@ -70,9 +70,6 @@ An annual initiative by:
 ![BaSC Logo](Basilan_State_College-removebg-preview.png)
 **Basilan State College**  
 Proud home of both champion teams in this year's competition
-
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
