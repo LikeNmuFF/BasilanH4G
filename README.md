@@ -1,6 +1,6 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
-![DICT Logo](https://upload.wikimedia.org/wikipedia/commons/1/12/DICT_Standard_Sub-brand_Logo.png)
+![DICT Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Department_of_Information_and_Communications_Technology_%28DICT%29.svg)
 ![Basilan State College Logo](Basilan_State_College-removebg-preview.png)
 
 > *"A full day of innovation, critical thinking, and cybersecurity excellence"*
