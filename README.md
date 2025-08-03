@@ -3,7 +3,7 @@
 <p align="center">
   <img src="DICT_Standard.png" width="100" alt="DICT Logo">
   <img src="Basilan_State_College-removebg-preview.png" width="100" alt="BaSC Logo">
-  <img src="fci.png" width="100" alt="Furigay Logo">
+  <img src="fci.png" width="150" alt="Furigay Logo">
   <img src="UCFSAP.png" width="100" alt="Universal College Logo">
 </p>
 
