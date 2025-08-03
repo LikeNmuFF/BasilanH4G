@@ -21,11 +21,15 @@ The **Basilan Provincial Hack4Gov Capture-the-Flag (CTF) Competition 2025** was 
 
 ## 🏫 Participating Institutions
 
-| Institution | Teams |
-|-------------|-------|
-| Basilan State College (BaSC) | 2 Champion Teams |
-| Furigay Colleges | Multiple Teams |
-| Universal College | Multiple Teams |
+<div align="center">
+
+| Institution | Teams | Results |
+|-------------|-------|---------|
+| <img src="Basilan_State_College-removebg-preview.png" width="30"> **Basilan State College** | 4 Teams | 🏆 Champion<br>🥇 1st Runner-Up<br>2 Competing Teams |
+| <img src="fci.jpg" width="30"> **Furigay Colleges** | 2 Teams | 2 Competing Teams |
+| <img src="UCFSAP.png" width="30"> **Universal College** | 2 Teams | 2 Competing Teams |
+
+</div>
 
 ## 🏆 Winning Teams
 
@@ -69,16 +73,17 @@ An annual initiative by:
 
 ## 🏛️ Institutional Recognition
 
-![BaSC Logo](Basilan_State_College-removebg-preview.png)
-
-
-**Basilan State College**  
-Proud home of both champion teams in this year's competition
+<div align="center">
+  <img src="Basilan_State_College-removebg-preview.png" width="150" alt="BaSC Logo">
+  <br>
+  <strong>Basilan State College</strong><br>
+  <em>Proud home of both champion teams in this year's competition</em>
+</div>
 
 ---
 
 <div align="center">
   <img src="Basilan_State_College-removebg-preview.png" width="100" alt="BSC Logo">
   <img src="DICT_Standard.png" width="100" alt="DICT Logo">
-  <p>© 2025 Basilan State College & DICT BASIlAN | All Rights Reserved</p>
+  <p>© 2025 Basilan State College & DICT BASILAN | All Rights Reserved</p>
 </div>
