@@ -1,6 +1,6 @@
 # 🏆 Basilan State College - Hack4Gov Champions
 
-![Basilan State College Logo](https://raw.githubusercontent.com/yourusername/your-repo/main/Basilan_State_College-removebg-preview.png)
+![Basilan State College Logo](https://github.com/LikeNmuFF/BasilanH4G/blob/master/Basilan_State_College-removebg-preview.png)
 
 A celebration website for the Provincial Hack4Gov champions from Basilan State College, featuring interactive theme switching and team showcases.
 
