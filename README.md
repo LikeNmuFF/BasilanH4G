@@ -9,7 +9,7 @@ A celebration website for the Provincial Hack4Gov champions from Basilan State C
 ## 🏆 Winning Teams
 
 ### 🥇 Champion Team: 1mpvl3$
-![Team 1mpvl3$]
+
 
 **Coach**: Mohammad Jeremy Intong  
 **Members**:
@@ -19,7 +19,7 @@ A celebration website for the Provincial Hack4Gov champions from Basilan State C
 - Ace David B. Duja
 
 ### 🥈 First Runner-Up: Team Raze
-![Team Raze]
+
 
 **Coach**: Adrian Vincent Avenido  
 **Members**:
