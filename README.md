@@ -10,7 +10,7 @@
   <em>"A full day of innovation, critical thinking, and cybersecurity excellence"</em>
 </p>
 
-*"A full day of innovation, critical thinking, and cybersecurity excellence"*
+
 
 ## 🌐 About the Competition
 
