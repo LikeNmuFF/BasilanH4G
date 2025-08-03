@@ -7,7 +7,7 @@
   <img src="UCFSAP.png" width="100" alt="Universal College Logo">
 </p>
 
->      *"A full day of innovation, critical thinking, and cybersecurity excellence"*
+<em><i>"A full day of innovation, critical thinking, and cybersecurity excellence"</i></em>
 
 ## 🌐 About the Competition
 
