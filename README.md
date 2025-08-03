@@ -1,34 +1,83 @@
-# 🏆 Basilan State College - Hack4Gov Champions
+# 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
-![Basilan State College Logo](https://github.com/LikeNmuFF/BasilanH4G/blob/master/Basilan_State_College-removebg-preview.png)
+![DICT Logo](https://upload.wikimedia.org/wikipedia/commons/1/12/DICT_Standard_Sub-brand_Logo.png)
+![Basilan State College Logo](Basilan_State_College-removebg-preview.png)
 
+> *"A full day of innovation, critical thinking, and cybersecurity excellence"*
 
+## 🌐 About the Competition
+
+The **Basilan Provincial Hack4Gov Capture-the-Flag (CTF) Competition 2025** was organized by:
+- **Department of Information and Communications Technology (DICT) Region IX**
+- **Provincial Office led by Mr. Micheal Jolo**
+
+**Competition Highlights:**
+- 🕒 Full-day cybersecurity challenge
+- 🏫 8 teams from 3 institutions
+- 🧠 Focused on real-world cybersecurity scenarios
+- 🛡️ Promoted cyber defense strategies
+
+## 🏫 Participating Institutions
+
+| Institution | Teams |
+|-------------|-------|
+| Basilan State College (BaSC) | 2 Champion Teams |
+| Furigay Colleges | Multiple Teams |
+| Universal College | Multiple Teams |
 
 ## 🏆 Winning Teams
 
-### 🥇 Champion Team: 1mpvl3$
+### 🥇 Provincial Champions - Team 1mpvl$3
+![Team 1mpvl$3](1mpulse.jpg)
 
-
-**Coach**: Mohammad Jeremy Intong  
-**Members**:
+**Members:**
 - Abdurahman R. Abdul
 - Klein Ric M. Abong
 - Aljamri D. Solis
 - Ace David B. Duja
 
-### 🥈 First Runner-Up: Team Raze
+**Mentor:**  
+Mohammad Jeremy Intong
 
+### 🥈 1st Place - Team Raze
+![Team Raze](raze.jpg)
 
-**Coach**: Adrian Vincent Avenido  
-**Members**:
+**Members:**
 - Janice Q. Juaban
 - Rel Chrischan B. Jamiro
 - John Fitz Gerald Gregorio
-- Robert Barrioga
+- Robert Barioga
 
-## 🛠️ Technologies Used
+**Mentor:**  
+Adrian Vincent Avenido
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 Next Challenge
+These winning teams will represent Basilan Province in the upcoming **Regional Hack4Gov Competition**.
 
+## 🛡️ About Hack4Gov CTF
+An annual initiative by:
+- **Cybersecurity Bureau - DICT**
+- **Philippine National Computer Emergency Response Team (NCERT/CERT-PH)**
+
+**Objectives:**
+- Promote cybersecurity awareness
+- Provide practical defense experience
+- Develop critical thinking skills
+- Prepare students for real-world cyber threats
+
+## 🏛️ Institutional Recognition
+
+![BaSC Logo](Basilan_State_College-removebg-preview.png)
+**Basilan State College**  
+Proud home of both champion teams in this year's competition
+
+## 📜 License
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  <img src="Basilan_State_College-removebg-preview.png" width="100" alt="BSC Logo">
+  <img src="https://dict.gov.ph/wp-content/uploads/2021/01/DICT-Logo-1.png" width="100" alt="DICT Logo">
+  <p>© 2025 Basilan State College & DICT Region IX | All Rights Reserved</p>
+</div>
