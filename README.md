@@ -78,7 +78,7 @@ An annual initiative by:
 
 <div align="center">
   <img src="Basilan_State_College-removebg-preview.png" width="150" alt="BaSC Logo">
-  <img src="cictt.png" width="150" alt="BaSC Logo">
+  <img src="cictt.png" width="155" alt="BaSC Logo">
   <br>
   <strong>Basilan State College</strong><br>
   <em>Proud home of both champion teams in this year's competition</em>
