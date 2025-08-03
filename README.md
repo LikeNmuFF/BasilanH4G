@@ -26,7 +26,7 @@ A celebration website for the Provincial Hack4Gov champions from Basilan State C
 - Janice Q. Juaban
 - Rel Chrischan B. Jamiro
 - John Fitz Gerald Gregorio
-- Robert Barioga
+- Robert Barrioga
 
 ## 🛠️ Technologies Used
 
