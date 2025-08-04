@@ -1,9 +1,9 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
 <p align="center">
-  <img src="logos/bascxcictt/cictt.png" width="120" alt="DICT Logo">
-  <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
+  <img src="logos/bascxcictt/cictt.png" width="120" alt="CICTT">
   <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="100" alt="BaSC Logo">
+    <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
   <img src="logos/fci/fci.png" width="150" alt="Furigay Logo">
   <img src="logos/ucfsap/UCFSAP.png" width="100" alt="Universal College Logo">
   <br>
