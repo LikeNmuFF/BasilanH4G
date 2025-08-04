@@ -1,10 +1,38 @@
 function setTheme(theme) {
     document.body.className = theme;
     localStorage.setItem('theme', theme);
+    updateThemeInLinks(theme);
 }
 
-const savedTheme = localStorage.getItem('theme') || 'light';
-setTheme(savedTheme);
+function initializeTheme() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlTheme = urlParams.get('theme');
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    const theme = urlTheme || savedTheme;
+    setTheme(theme);
+}
+
+function updateThemeInLinks(theme) {
+    document.querySelectorAll('a').forEach(link => {
+        
+        if (link.href.includes('#') || 
+            !link.href.includes(window.location.hostname) ||
+            link.href.includes('javascript:')) {
+            return;
+        }
+        
+        try {
+            const url = new URL(link.href);
+            url.searchParams.set('theme', theme);
+            link.href = url.toString();
+        } catch (e) {
+            console.warn('Could not update theme for link:', link.href);
+        }
+    });
+}
+
+window.addEventListener('DOMContentLoaded', initializeTheme);
+
 
 function createParticle() {
     const particle = document.createElement('div');
@@ -103,6 +131,5 @@ function improveReadability() {
         card.style.lineHeight = '1.6';
     });
 }
-
 
 window.addEventListener('load', improveReadability);

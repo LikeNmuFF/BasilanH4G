@@ -111,38 +111,188 @@ body.hacking {
     gap: 10px;
 }
 
+
 .theme-btn {
-    padding: 10px 15px;
+    padding: 12px 20px;
     border: none;
-    border-radius: 25px;
+    border-radius: 30px;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: 600;
     transition: all 0.3s ease;
-    font-size: 12px;
+    font-size: 14px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 1;
 }
 
-.light .theme-btn {
-    background: rgba(255, 255, 255, 0.8);
+.theme-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 100%);
+    z-index: -1;
+    transition: opacity 0.3s ease;
+}
+
+.theme-btn:hover::before {
+    opacity: 0.8;
+}
+
+.theme-btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Light Mode Button */
+.light .theme-btn[onclick="setTheme('light')"] {
+    background: linear-gradient(135deg, #ffffff 0%, #f5f5f5 100%);
     color: #333;
-    backdrop-filter: blur(10px);
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 
+                inset 0 1px 2px rgba(255,255,255,0.8);
 }
 
-.dark .theme-btn {
-    background: rgba(45, 45, 45, 0.8);
-    color: #e0e0e0;
-    backdrop-filter: blur(10px);
+.light .theme-btn[onclick="setTheme('light')"]::after {
+    content: '☀️';
+    font-size: 16px;
 }
 
-.hacking .theme-btn {
-    background: rgba(13, 17, 23, 0.8);
+/* Dark Mode Button */
+.light .theme-btn[onclick="setTheme('dark')"] {
+    background: linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%);
+    color: #f0f0f0;
+    border: 1px solid #444;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 
+                inset 0 1px 1px rgba(255,255,255,0.1);
+}
+
+.light .theme-btn[onclick="setTheme('dark')"]::after {
+    content: '🌙';
+    font-size: 16px;
+}
+
+/* Hacking Mode Button */
+.light .theme-btn[onclick="enterHackingMode()"] {
+    background: linear-gradient(135deg, #0a2e0a 0%, #051905 100%);
     color: #00ff00;
-    border: 1px solid #00ff00;
-    backdrop-filter: blur(10px);
+    border: 1px solid #00aa00;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 
+                inset 0 0 8px rgba(0, 255, 0, 0.3);
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.7);
 }
 
-.theme-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+.light .theme-btn[onclick="enterHackingMode()"]::after {
+    content: '💻';
+    font-size: 16px;
+}
+
+/* Dark Mode Button Styles */
+.dark .theme-btn[onclick="setTheme('light')"] {
+    background: linear-gradient(135deg, #f8f8f8 0%, #e0e0e0 100%);
+    color: #222;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 
+                inset 0 1px 2px rgba(255,255,255,0.8);
+}
+
+.dark .theme-btn[onclick="setTheme('light')"]::after {
+    content: '☀️';
+}
+
+.dark .theme-btn[onclick="setTheme('dark')"] {
+    background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+    color: #f0f0f0;
+    border: 1px solid #444;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3), 
+                inset 0 1px 1px rgba(255,255,255,0.1);
+}
+
+.dark .theme-btn[onclick="setTheme('dark')"]::after {
+    content: '🌙';
+}
+
+.dark .theme-btn[onclick="enterHackingMode()"] {
+    background: linear-gradient(135deg, #0a2e0a 0%, #051905 100%);
+    color: #00ff00;
+    border: 1px solid #007700;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 
+                inset 0 0 10px rgba(0, 255, 0, 0.4);
+    text-shadow: 0 0 8px rgba(0, 255, 0, 0.8);
+}
+
+.dark .theme-btn[onclick="enterHackingMode()"]::after {
+    content: '💻';
+}
+
+/* Hacking Mode Button Styles */
+.hacking .theme-btn {
+    font-family: 'Courier New', monospace;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 1px solid #00ff00;
+    text-shadow: 0 0 5px #00ff00;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
+
+.hacking .theme-btn[onclick="setTheme('light')"] {
+    background: rgba(20, 20, 20, 0.8);
+    color: #00ff00;
+}
+
+.hacking .theme-btn[onclick="setTheme('light')"]::after {
+    content: '[LGT]';
+}
+
+.hacking .theme-btn[onclick="setTheme('dark')"] {
+    background: rgba(10, 10, 10, 0.8);
+    color: #00ff00;
+}
+
+.hacking .theme-btn[onclick="setTheme('dark')"]::after {
+    content: '[DRK]';
+}
+
+.hacking .theme-btn[onclick="enterHackingMode()"] {
+    background: rgba(0, 20, 0, 0.8);
+    color: #00ff00;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 5px rgba(0, 255, 0, 0.5); }
+    50% { box-shadow: 0 0 20px rgba(0, 255, 0, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(0, 255, 0, 0.5); }
+}
+
+.hacking .theme-btn[onclick="enterHackingMode()"]::after {
+    content: '[HACK]';
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .theme-toggle {
+        gap: 8px;
+    }
+    
+    .theme-btn {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    
+    .theme-btn::after {
+        font-size: 14px;
+    }
+    
+    .hacking .theme-btn::after {
+        content: '' !important;
+    }
 }
 
 .header {
@@ -742,4 +892,38 @@ body.hacking {
 .hacking .photo-subtitle {
     color: #00ff00;
     opacity: 0.9;
+}
+.journey-btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 30px auto;
+    display: block;
+    text-align: center;
+    width: fit-content;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.light .journey-btn {
+    background: rgba(233, 30, 99, 0.9);
+    color: white;
+}
+
+.dark .journey-btn {
+    background: rgba(255, 64, 129, 0.9);
+    color: white;
+}
+
+.hacking .journey-btn {
+    background: rgba(0, 255, 0, 0.2);
+    color: #00ff00;
+    border: 1px solid #00ff00;
+}
+
+.journey-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
