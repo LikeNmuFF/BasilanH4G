@@ -104,4 +104,5 @@ function improveReadability() {
     });
 }
 
+
 window.addEventListener('load', improveReadability);
