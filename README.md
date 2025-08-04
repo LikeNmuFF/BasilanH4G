@@ -30,7 +30,7 @@ The **Basilan Provincial Hack4Gov Capture-the-Flag (CTF) Competition 2025** was 
 
 | Institution | Teams | Results |
 |-------------|-------|---------|
-| <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="30"> **Basilan State College** | 4 Teams | 🏆 Champion<br>🥇 1st Runner-Up<br>🥉 3rd Runner-Up<br>🎖️ 4th Runner-Up |
+| <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="30"> **Basilan State College** | 4 Teams | 🏆 Champion<br>🥇 1st Runner-Up<br>🥉 2nd Runner-Up<br>🎖️ 3rd Runner-Up |
 | <img src="logos/fci/fci.png" width="40"> **Furigay Colleges** | 2 Teams | 2 Competing Teams |
 | <img src="logos/ucfsap/UCFSAP.png" width="30"> **Universal College** | 2 Teams | 2 Competing Teams |
 
