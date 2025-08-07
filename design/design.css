@@ -247,7 +247,7 @@ body.hacking {
 }
 
 .hacking .theme-btn[onclick="setTheme('light')"]::after {
-    content: '[LGT]';
+    content: 'mode';
 }
 
 .hacking .theme-btn[onclick="setTheme('dark')"] {
@@ -256,7 +256,7 @@ body.hacking {
 }
 
 .hacking .theme-btn[onclick="setTheme('dark')"]::after {
-    content: '[DRK]';
+    content: 'mode';
 }
 
 .hacking .theme-btn[onclick="enterHackingMode()"] {
@@ -272,7 +272,7 @@ body.hacking {
 }
 
 .hacking .theme-btn[onclick="enterHackingMode()"]::after {
-    content: '[HACK]';
+    content: 'mode';
 }
 
 /* Mobile Responsiveness */
