@@ -91,6 +91,7 @@ An annual initiative by:
 <div align="center">
   <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="100" alt="BSC Logo">
   <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
-  <img src="logos/bascxcictt/cictt.png" width="110" alt="DICT Logo">
-  <p>© @CICTTfam | 2025 Basilan State College & DICT-BASILAN | All Rights Reserved</p>
+  <img src="logos/bascxcictt/cictt.png" width="110" alt="CICTT Logo">
+  <img src="https://github.com/LikeNmuFF/muffy/blob/main/muffy.png" width="110" alt="muffy Logo">
+  <p>© @CICTTfam & muffy | 2025 Basilan State College & DICT-BASILAN | All Rights Reserved</p>
 </div>
