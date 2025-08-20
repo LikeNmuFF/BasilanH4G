@@ -39,8 +39,8 @@ The **Basilan Provincial Hack4Gov Capture-the-Flag (CTF) Competition 2025** was 
 
 ## 🏆 Winning Teams
 
-### 🥇 Provincial Champions - Team 1mpvl$3
-<img src="https://github.com/LikeNmuFF/muffy/blob/main/1mpvlse.png" width="100" alt="impvlse">
+# 🥇 Provincial Champions - <img src="https://github.com/LikeNmuFF/muffy/blob/main/1mpvlse.png" width="100" alt="Logo"> Team 1mpvl$3
+
 ![Team 1mpvl$3](gallery/1mpvl$3/1mpulse.jpg)
 
 **Members:**
