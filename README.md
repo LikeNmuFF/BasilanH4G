@@ -1,9 +1,10 @@
 # 🏆 Basilan Provincial Hack4Gov CTF Competition 2025
 
 <p align="center">
+  <img src="https://github.com/LikeNmuFF/muffy/blob/main/1mpvlse.png" width="120" alt="impvse">
   <img src="logos/bascxcictt/cictt.png" width="120" alt="CICTT">
   <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="100" alt="BaSC Logo">
-    <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
+  <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
   <img src="logos/fci/fci.png" width="150" alt="Furigay Logo">
   <img src="logos/ucfsap/UCFSAP.png" width="100" alt="Universal College Logo">
   <br>
@@ -81,6 +82,7 @@ An annual initiative by:
 <div align="center">
   <img src="logos/bascxcictt/Basilan_State_College-removebg-preview.png" width="150" alt="BaSC Logo">
   <img src="logos/bascxcictt/cictt.png" width="155" alt="BaSC Logo">
+  <img src="https://github.com/LikeNmuFF/muffy/blob/main/1mpvlse.png" width="155" alt="impvlse Logo">
   <br>
   <strong>Basilan State College</strong><br>
   <em>Proud home of both champion teams in this year's competition</em>
@@ -93,5 +95,6 @@ An annual initiative by:
   <img src="logos/dict/DICT_Standard.png" width="100" alt="DICT Logo">
   <img src="logos/bascxcictt/cictt.png" width="110" alt="CICTT Logo">
   <img src="https://github.com/LikeNmuFF/muffy/blob/main/muffy.png" width="110" alt="muffy Logo">
+  <img src="https://github.com/LikeNmuFF/muffy/blob/main/1mpvlse.png" width="110" alt="impvlse Logo">
   <p>© @CICTTfam & muffy | 2025 Basilan State College & DICT-BASILAN | All Rights Reserved</p>
 </div>
